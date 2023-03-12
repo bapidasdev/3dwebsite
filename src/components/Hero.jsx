@@ -154,7 +154,7 @@ const Hero = () => {
               </Sphere>
           </Canvas>
         
-        <Img src="./img/ro.jfif" style={{height:"250px"}} />
+        <Img src="./img/me.png" style={{height:"250px"}} />
         
       </Right>
     </Container>
